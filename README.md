@@ -7,18 +7,6 @@ Multi-Agent + Chroma RAG + Flask Web System
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector--Database-orange)](https://docs.trychroma.com/)  
 
 ---
-
-## 📑 Table of Contents
-- [Introduction](#introduction)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Future Work](#future-work)
-- [License](#license)
-
-
 本專案建構了一套智慧英語學習平台，採用 **Master-Sub Agent（主從智能體）** 架構結合 **Chain of Thought (CoT)** 思維鏈技術。系統透過 Master Agent 進行意圖識別與任務分派，並結合 **Chroma 向量資料庫（RAG 技術）** 檢索國中教材，提供精準的教學、出題與解析服務。
 
 ## 目錄 Table of Contents
